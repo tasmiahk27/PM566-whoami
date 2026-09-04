@@ -24,9 +24,10 @@ repository (the USCbiostats version).
 
 Arnav Bhatia [**@arnavbha-sys**](https://github.com/arnavbha-sys/) I'm Arnav, and I'm a second-year MS student in Applied Biostatistics and Epidemiology. I hail from the Bay Area, and I did tae-kwon-do for over 10 years!
 
-Danielle Goedhart
+Danielle Goedhart 
 
-Tasmiah Khan
+Tasmiah Khan ```md
+[**@tasmiahk27**]((https://github.com/tasmiahk27)/) I am a second-year student for the MS Applied Biostatistics and Epidemiology track. I am born and raised here in Los Angeles, and I love going to concerts! My favorite artist live so far is Adele. 
 
 Nathan Weitershausen
 
